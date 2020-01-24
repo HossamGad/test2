@@ -1,0 +1,6 @@
+C:\Users\hoss_\Desktop\Nasa\Nasa\obj\MCD\Debug\netcoreapp3.0\Nasa.csprojAssemblyReference.cache
+C:\Users\hoss_\Desktop\Nasa\Nasa\obj\MCD\Debug\netcoreapp3.0\staticwebassets\Nasa.StaticWebAssets.Manifest.cache
+C:\Users\hoss_\Desktop\Nasa\Nasa\obj\MCD\Debug\netcoreapp3.0\staticwebassets\Nasa.StaticWebAssets.xml
+C:\Users\hoss_\Desktop\Nasa\Nasa\obj\MCD\Debug\netcoreapp3.0\Nasa.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hoss_\Desktop\Nasa\Nasa\obj\MCD\Debug\netcoreapp3.0\Nasa.AssemblyInfoInputs.cache
+C:\Users\hoss_\Desktop\Nasa\Nasa\obj\MCD\Debug\netcoreapp3.0\Nasa.AssemblyInfo.cs
